@@ -30,7 +30,7 @@ def preEncrypt():
         print("What is the password?:")
         password = input()
 
-        if password == "NopeWasRobbedAtTheOSCARS":
+        if password == "[enter whatever password you want to set it as]":
             print("The private key is: " + privateKey)
         else:
             print("Access Denied!")

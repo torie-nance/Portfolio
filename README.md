@@ -3,3 +3,5 @@ This repository acts as a place to store the different projects I have/am curren
 I currently know the following programming languages: Python, C, C# C++, Java, JavaScript, all in addition to knowing how to write code in HTML, CSS, PHP, and SQL.
 
 I have experience writing code dealing with creating algorithms for security purposes (ex. rot13 encoders), creating programs that incorporate automation for everyday processes (ex. the various Canvas projects), and also creating video games (ex. the C programs), among more.
+
+I currently hold a CompTIA Security+ Certification and I'm in the process of studying for both the CompTIA PenTest+ and Network+ certifications, with an expected completion date of January 2024.

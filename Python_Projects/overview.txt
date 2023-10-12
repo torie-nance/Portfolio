@@ -1,0 +1,5 @@
+This folder acts as a place to store different programs written soley in Python or in a majority of Python code.
+
+Currently, this folder holds the following files:
+  - onetimepad_updated.py
+  - rot13_encoder.py

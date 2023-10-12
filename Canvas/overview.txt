@@ -1,1 +1,0 @@
-These are Java programs that are catered towards Canvas, but can most likely be altered to work on other academic sites for the sake of automating common student tasks.
